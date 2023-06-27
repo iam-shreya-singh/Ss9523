@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Ss9523
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Shreya_Singh
+- 👀 I’m looking forward to working for Data Analyst roles and collaborate projects
+- 🌱 I’m currently learning SQL, Power BI, ETL, Excel (VBA, Macros),Tableau
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ss9523/Ss9523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me ... Ph no. +91 9348271497 ; Linkedin - https://www.linkedin.com/in/shreya-singh-783149179/
