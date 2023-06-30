@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shreya_Singh
-- 👀 I’m looking forward to working for Data Analyst roles and collaborate projects
-- 🌱 I’m currently learning SQL, Power BI, ETL, Excel (VBA, Macros),Tableau
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking forward to working in Data Analyst roles and collaborating on projects
+- 🌱 I’m currently learning SQL, Power BI, ETL, Excel (VBA, Macros), Tableau
+- 👀 You can visit and check my projects Here  --->  https://github.com/users/Ss9523/projects/1
 - 📫 How to reach me ... Ph no. +91 9348271497 ; Linkedin - https://www.linkedin.com/in/shreya-singh-783149179/
