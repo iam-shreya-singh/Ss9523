@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shreya_Singh
-- 💞️ I’m looking forward to working in Data Analyst roles and collaborating on projects
-- 🌱 I’m currently learning SQL, Power BI, ETL, Excel (VBA, Macros), Tableau
+- 💞️ I’m looking forward to working in DevOps , CLoud roles and collaborating on projects
+- 🌱 I’m currently learning DevOps, Shell Scripting, Linux, Python
 - 👀 You can visit and check my projects Here  --->  https://github.com/users/Ss9523/projects/1
-- 📫 How to reach me ... Linkedin - https://www.linkedin.com/in/shreya-singh-783149179/
+- 📫 How to reach me ... Linkedin - https://www.linkedin.com/in/shreya-singh-783149179
